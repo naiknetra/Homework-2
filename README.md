@@ -16,5 +16,5 @@ When you click on the link to the images of the applications,then you're taken t
 
 When you resize the page or view the site on various screens and devices, Then you are presented with a responsive layout that adapts to your viewport.
 
-cd 
+
 
